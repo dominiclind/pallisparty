@@ -1,0 +1,124 @@
+.game-modal{
+	position:fixed;
+	bottom:0;
+	left:0;
+	right:0;
+	height:100px;
+	padding-top:2em;
+	background:black;
+	z-index:10;
+	color:white;
+	padding-bottom:1em;
+	
+	display:flex;
+	flex-direction:column;
+	align-items:center;
+	justify-content: center;
+
+	&.me{
+		top:20px;
+		right:20px;
+		left:20px;
+		bottom:20px;
+		height:auto;
+
+		.players{
+			height: 100px;
+		}
+
+	}
+
+	.center{
+		// padding: 20px;
+		flex:1;
+		display:flex;
+		flex-direction:column;
+		align-items:center;
+		justify-content: space-around;
+	}
+
+	
+	.gives{
+		margin:2em 0;
+		text-align: center;
+		opacity:0.5;
+	}
+
+
+	/* cover */
+	div.cover {
+	 	position: relative;
+	  overflow: hidden;
+	  /* Width and height can be anything. */
+	  width: 250px;
+	  height: 250px;
+	}
+	img.cover {
+		position: absolute;
+		  /* Position the image in the middle of its container. */
+		  top: -9999px;
+		  right: -9999px;
+		  bottom: -9999px;
+		  left: -9999px;
+		  margin: auto;
+		  /* The following values determine the exact image behaviour. */
+		  /* You can simulate background-size: cover/contain/etc.
+		     by changing between min/max/standard width/height values.
+		     These values simulate background-size: cover
+		  */
+		  min-width: 100%;
+		  max-width:250px;
+		  min-height: 100%;
+	}
+	.players{
+		display:flex;
+		flex-direction:row;
+		margin:1em;
+    width: 100%;
+    align-items: center;
+    justify-content: space-around;
+    //background: red;
+	}
+	.drink{
+		flex:1;
+		font-size:1em;
+	}
+	.player{
+		display:flex;
+		flex-direction:row;
+		align-items:center;
+
+		img{
+			margin-bottom:1em;
+			width: 30px;
+			height: 30px;
+			border-radius:50%;
+		}
+
+		p{
+			font-size:.8em;
+		}
+
+		&.me {
+			img{
+				border:5px solid white;
+			}
+		}
+	}
+	&.me .player{
+		flex-direction:column;
+
+		img{
+			width:80px;
+			height:80px;
+		}
+	}
+
+	&.me .drink{
+		font-size:2em;
+	}
+
+	.drink{
+		margin-top:1em;
+	}
+}

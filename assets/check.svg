@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="12px" viewBox="0 0 15 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="09" transform="translate(-64.000000, -183.000000)" fill="#1C2330">
+            <g id="progress" transform="translate(58.000000, 171.000000)">
+                <g id="rectangles">
+                    <g id="tick" transform="translate(13.500000, 18.000000) rotate(-90.000000) translate(-13.500000, -18.000000) translate(7.500000, 10.500000)">
+                        <g id="Group-4">
+                            <path d="M0.860326481,6.5093291 C0.262551669,5.81410592 0.288035821,4.77012766 0.946321603,4.11184188 L4.46600855,0.592154936 C5.15380208,-0.0956385919 6.26716234,-0.0974119701 6.96353715,0.598962847 C7.65509059,1.29051628 7.661034,2.40580251 6.97034506,3.09649145 L4.69183652,5.375 L11.0957251,11.7788886 C11.7852247,12.4683882 11.7883812,13.5831315 11.0920064,14.2795064 C10.4004529,14.9710598 9.27256042,14.9643969 8.59138862,14.2832251 L1.07094153,6.76277805 C0.991654091,6.68349061 0.921442388,6.59858003 0.860326481,6.5093291 Z" id="Combined-Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

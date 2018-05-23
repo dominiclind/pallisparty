@@ -1,0 +1,59 @@
+.spontan-knapp{
+	background:black;
+	color:white;
+	opacity:0 !important;
+	z-index:10;
+	width:50px !important;
+	height:50px !important;
+	position:absolute;
+	overflow:hidden;
+}
+
+.decide-button{
+	position:fixed;
+	bottom:0;
+	left:0;
+	right:0;
+	z-index:2;
+	padding:1em;
+	text-align: center;
+}
+
+.button.special{
+	background:transparent;
+	color:black;
+	font-size:1.5em;
+	position:absolute;
+	top:-10px;
+	right:-10px;
+
+	width:50px;
+	height:50px;
+
+	& > div{
+		position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: block;
+	}
+}
+
+.button{
+	background:black;
+	color:white;
+	padding: 1em 2em;
+	display:inline-block;
+	// margin:5px;
+	cursor:pointer;
+	outline:none;
+	border:none;
+	text-align:center;
+	-webkit-appearance:none;
+
+	&.inverted{
+		background:white;
+		color:black;
+	}
+}

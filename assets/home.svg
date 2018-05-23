@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 9</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="FINAL-DESIGN" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="18" transform="translate(-48.000000, -560.000000)" fill="#FFFFFF">
+            <g id="BUTTON-PANEL" transform="translate(31.000000, 417.000000)">
+                <g id="BUTTON-home" transform="translate(0.000000, 126.000000)">
+                    <polygon id="Rectangle-9" points="17 27.0454545 30 17 35 21 35.0145448 18 39 18 39 24 43 27.0454545 43 43 33 43 33 35 27 35 27 43 17 43"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

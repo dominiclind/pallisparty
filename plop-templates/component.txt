@@ -1,0 +1,16 @@
+import React, { Component } from 'react';
+
+class {{properCase name}} extends Component{
+
+	render() {
+	  return (
+	    <div className="{{dashCase name}}">
+	      <p>
+	       {{properCase name}}
+	      </p>
+	    </div>
+	  );
+  }
+}
+
+export default {{properCase name}};

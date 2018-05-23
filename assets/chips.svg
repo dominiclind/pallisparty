@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="36px" viewBox="0 0 34 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>chips new</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="11" cy="11" r="11"></circle>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-1" y="-1" width="24" height="24">
+            <rect x="-1" y="-1" width="24" height="24" fill="white"></rect>
+            <use xlink:href="#path-1" fill="black"></use>
+        </mask>
+        <circle id="path-3" cx="11" cy="11" r="11"></circle>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-1" y="-1" width="24" height="24">
+            <rect x="-1" y="-1" width="24" height="24" fill="white"></rect>
+            <use xlink:href="#path-3" fill="black"></use>
+        </mask>
+        <circle id="path-5" cx="11" cy="11" r="11"></circle>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-1" y="-1" width="24" height="24">
+            <rect x="-1" y="-1" width="24" height="24" fill="white"></rect>
+            <use xlink:href="#path-5" fill="black"></use>
+        </mask>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="chips" transform="translate(1.000000, 1.000000)">
+            <g id="chips-new">
+                <g id="chip-1-copy" transform="translate(10.000000, 12.000000)">
+                    <g id="Oval-2">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <use stroke="#1F99CE" mask="url(#mask-2)" stroke-width="2" xlink:href="#path-1"></use>
+                    </g>
+                    <circle id="Oval-2-Copy" fill="#1F99CE" cx="11" cy="11" r="6"></circle>
+                    <g id="Group-4" transform="translate(2.000000, 10.000000)" fill="#1F99CE">
+                        <rect id="Rectangle-8" x="0" y="0" width="2" height="2"></rect>
+                        <rect id="Rectangle-8-Copy" x="16" y="0" width="2" height="2"></rect>
+                    </g>
+                    <g id="Group-4-Copy" transform="translate(11.000000, 11.000000) rotate(-270.000000) translate(-11.000000, -11.000000) translate(2.000000, 10.000000)" fill="#1F99CE">
+                        <rect id="Rectangle-8" x="0" y="1.77635684e-15" width="2" height="2"></rect>
+                        <rect id="Rectangle-8-Copy" x="16" y="-1.77635684e-15" width="2" height="2"></rect>
+                    </g>
+                    <g id="Group-4-Copy-2" transform="translate(11.000000, 11.000000) rotate(-330.000000) translate(-11.000000, -11.000000) translate(2.000000, 10.000000)" fill="#1F99CE">
+                        <rect id="Rectangle-8" x="-3.37507799e-13" y="2.1938007e-13" width="2" height="2"></rect>
+                        <rect id="Rectangle-8-Copy" x="16" y="-9.05941988e-14" width="2" height="2"></rect>
+                    </g>
+                    <g id="Group-4-Copy-3" transform="translate(11.000000, 11.000000) rotate(-300.000000) translate(-11.000000, -11.000000) translate(2.000000, 10.000000)" fill="#1F99CE">
+                        <rect id="Rectangle-8" x="-1.30562228e-13" y="3.40172335e-13" width="2" height="2"></rect>
+                        <rect id="Rectangle-8-Copy" x="16" y="3.04645198e-13" width="2" height="2"></rect>
+                    </g>
+                    <g id="Group-4-Copy-4" transform="translate(11.000000, 11.000000) rotate(-240.000000) translate(-11.000000, -11.000000) translate(2.000000, 10.000000)" fill="#1F99CE">
+                        <rect id="Rectangle-8" x="2.27373675e-13" y="2.87769808e-13" width="2" height="2"></rect>
+                        <rect id="Rectangle-8-Copy" x="16" y="3.16191517e-13" width="2" height="2"></rect>
+                    </g>
+                    <g id="Group-4-Copy-5" transform="translate(11.000000, 11.000000) rotate(-210.000000) translate(-11.000000, -11.000000) translate(2.000000, 10.000000)" fill="#1F99CE">
+                        <rect id="Rectangle-8" x="-3.55271368e-13" y="-1.81188398e-13" width="2" height="2"></rect>
+                        <rect id="Rectangle-8-Copy" x="16" y="1.20792265e-13" width="2" height="2"></rect>
+                    </g>
+                </g>
+                <g id="chip-1" transform="translate(9.000000, 0.000000)">
+                    <g id="Oval-2">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        <use stroke="#1F99CE" mask="url(#mask-4)" stroke-width="2" xlink:href="#path-3"></use>
+                    </g>
+                    <circle id="Oval-2-Copy" fill="#1F99CE" cx="11" cy="11" r="6"></circle>
+                    <g id="Group-4" transform="translate(2.000000, 10.000000)" fill="#1F99CE">
+                        <rect id="Rectangle-8" x="0" y="0" width="2" height="2"></rect>
+                        <rect id="Rectangle-8-Copy" x="16" y="0" width="2" height="2"></rect>
+                    </g>
+                    <g id="Group-4-Copy" transform="translate(11.000000, 11.000000) rotate(-270.000000) translate(-11.000000, -11.000000) translate(2.000000, 10.000000)" fill="#1F99CE">
+                        <rect id="Rectangle-8" x="0" y="1.77635684e-15" width="2" height="2"></rect>
+                        <rect id="Rectangle-8-Copy" x="16" y="-1.77635684e-15" width="2" height="2"></rect>
+                    </g>
+                    <g id="Group-4-Copy-2" transform="translate(11.000000, 11.000000) rotate(-330.000000) translate(-11.000000, -11.000000) translate(2.000000, 10.000000)" fill="#1F99CE">
+                        <rect id="Rectangle-8" x="-3.37507799e-13" y="2.1938007e-13" width="2" height="2"></rect>
+                        <rect id="Rectangle-8-Copy" x="16" y="-9.05941988e-14" width="2" height="2"></rect>
+                    </g>
+                    <g id="Group-4-Copy-3" transform="translate(11.000000, 11.000000) rotate(-300.000000) translate(-11.000000, -11.000000) translate(2.000000, 10.000000)" fill="#1F99CE">
+                        <rect id="Rectangle-8" x="-1.30562228e-13" y="3.40172335e-13" width="2" height="2"></rect>
+                        <rect id="Rectangle-8-Copy" x="16" y="3.04645198e-13" width="2" height="2"></rect>
+                    </g>
+                    <g id="Group-4-Copy-4" transform="translate(11.000000, 11.000000) rotate(-240.000000) translate(-11.000000, -11.000000) translate(2.000000, 10.000000)" fill="#1F99CE">
+                        <rect id="Rectangle-8" x="2.27373675e-13" y="2.87769808e-13" width="2" height="2"></rect>
+                        <rect id="Rectangle-8-Copy" x="16" y="3.16191517e-13" width="2" height="2"></rect>
+                    </g>
+                    <g id="Group-4-Copy-5" transform="translate(11.000000, 11.000000) rotate(-210.000000) translate(-11.000000, -11.000000) translate(2.000000, 10.000000)" fill="#1F99CE">
+                        <rect id="Rectangle-8" x="-3.55271368e-13" y="-1.81188398e-13" width="2" height="2"></rect>
+                        <rect id="Rectangle-8-Copy" x="16" y="1.20792265e-13" width="2" height="2"></rect>
+                    </g>
+                </g>
+                <g id="chip-1-copy-2" transform="translate(0.000000, 8.000000)">
+                    <g id="Oval-2">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                        <use stroke="#1F99CE" mask="url(#mask-6)" stroke-width="2" xlink:href="#path-5"></use>
+                    </g>
+                    <circle id="Oval-2-Copy" fill="#1F99CE" cx="11" cy="11" r="6"></circle>
+                    <g id="Group-4" transform="translate(2.000000, 10.000000)" fill="#1F99CE">
+                        <rect id="Rectangle-8" x="0" y="0" width="2" height="2"></rect>
+                        <rect id="Rectangle-8-Copy" x="16" y="0" width="2" height="2"></rect>
+                    </g>
+                    <g id="Group-4-Copy" transform="translate(11.000000, 11.000000) rotate(-270.000000) translate(-11.000000, -11.000000) translate(2.000000, 10.000000)" fill="#1F99CE">
+                        <rect id="Rectangle-8" x="0" y="1.77635684e-15" width="2" height="2"></rect>
+                        <rect id="Rectangle-8-Copy" x="16" y="-1.77635684e-15" width="2" height="2"></rect>
+                    </g>
+                    <g id="Group-4-Copy-2" transform="translate(11.000000, 11.000000) rotate(-330.000000) translate(-11.000000, -11.000000) translate(2.000000, 10.000000)" fill="#1F99CE">
+                        <rect id="Rectangle-8" x="-3.37507799e-13" y="2.18491891e-13" width="2" height="2"></rect>
+                        <rect id="Rectangle-8-Copy" x="16" y="-9.05941988e-14" width="2" height="2"></rect>
+                    </g>
+                    <g id="Group-4-Copy-3" transform="translate(11.000000, 11.000000) rotate(-300.000000) translate(-11.000000, -11.000000) translate(2.000000, 10.000000)" fill="#1F99CE">
+                        <rect id="Rectangle-8" x="-1.31450406e-13" y="3.40172335e-13" width="2" height="2"></rect>
+                        <rect id="Rectangle-8-Copy" x="16" y="3.04645198e-13" width="2" height="2"></rect>
+                    </g>
+                    <g id="Group-4-Copy-4" transform="translate(11.000000, 11.000000) rotate(-240.000000) translate(-11.000000, -11.000000) translate(2.000000, 10.000000)" fill="#1F99CE">
+                        <rect id="Rectangle-8" x="2.27373675e-13" y="2.87769808e-13" width="2" height="2"></rect>
+                        <rect id="Rectangle-8-Copy" x="16" y="3.15303339e-13" width="2" height="2"></rect>
+                    </g>
+                    <g id="Group-4-Copy-5" transform="translate(11.000000, 11.000000) rotate(-210.000000) translate(-11.000000, -11.000000) translate(2.000000, 10.000000)" fill="#1F99CE">
+                        <rect id="Rectangle-8" x="0" y="0" width="2" height="2"></rect>
+                        <rect id="Rectangle-8-Copy" x="16" y="-3.55271368e-15" width="2" height="2"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
